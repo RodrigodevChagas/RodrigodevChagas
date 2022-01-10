@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-! - 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python and C#
 
 
-! - 🤔 I’m looking for help with developing a higher programming logic
+- 🤔 I’m looking for help with developing a higher programming logic
 
 
 
-! - 📫 How to reach me: dyggo.ag22@gmail.com
+- 📫 How to reach me: dyggo.ag22@gmail.com
 
 
 
