@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rocdrigo Chagas</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Chagas</h1>
 
 
 - 🌱 I’m currently learning Python and C#
