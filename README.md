@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Chagas</h1>
 
 
-- 🌱 I’m currently learning Python and C#
-
-
-- 🤔 I’m looking for help with developing a higher programming logic
-
-
+- I am a Beckend Developer.
+- Most focused on .NET Aplications.
 
 - 📫 How to reach me: dyggo.ag22@gmail.com
 
